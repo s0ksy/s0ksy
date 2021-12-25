@@ -6,11 +6,11 @@ Learning Pentesting and Python. CTF novice player.
 #### Certificates:
 * Google, INCIBE: Ciberseguridad en el Teletrabajo.
 
-##### Languages:
+##### :globe_with_meridians:Languages:
 * Spanish
 * B2 ENGLISH
 
 ##### Contact:
-* Telegram: @MutedHacker
-* MailTor: mutedhacker@mail2tor.com
+* :outbox_tray:Telegram: @MutedHacker
+* :mailbox_with_no_mail:MailTor: mutedhacker@mail2tor.com
 
